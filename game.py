@@ -1,4 +1,3 @@
-'POORVA NENE 38426682'
 
 import project5
 import sys
