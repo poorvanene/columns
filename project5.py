@@ -1,4 +1,3 @@
-'POORVA NENE 38426682'
 import game
 import pygame
 import random
